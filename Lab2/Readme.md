@@ -66,4 +66,4 @@ This project implements an FPGA circuit using SystemVerilog. The design is descr
     1. The final Y value is computed using an AND operation between the OR gate output and the XOR gate output.
     2. This ensures that Y is only 1 when a and b inputs  are 
 
-
+![Image](https://github.com/user-attachments/assets/1ce28463-c6b4-48b2-bc49-afddd88c6f8f)
