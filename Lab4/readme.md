@@ -1,0 +1,9 @@
+
+## *Lab: Experiment 4*
+
+Contains the RTL, TestBench, Vivado illustrations and contraint file of the respective Task
+#### *Includes:*
+-[RTL Code](./rtl/)
+-[Test Bench Code](./bench/)
+-[Constraints](./constraints/)
+-[DrawIO Illustrations](./docs/)
