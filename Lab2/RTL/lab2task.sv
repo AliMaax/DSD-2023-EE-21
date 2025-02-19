@@ -4,8 +4,8 @@ module lab3task(output x,
                 input  b,
                 input  c
                 ); 
-                
-    assign x = (~c) ^ (a | b);			               //=>XOR operation with inverted c
+                 
+    assign x = (~c) ^ (a | b);			               //=>XOR operation with inverted c kk
     assign y = ((~( a & b )) ^ (a | b)) & (a | b);     // =>AND operation       
     
 endmodule  
